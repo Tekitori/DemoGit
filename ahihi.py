@@ -1,2 +1,2 @@
 print("Ahihi")
-print("Oh yeah")
+print("come on!")
