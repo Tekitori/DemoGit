@@ -1,2 +1,1 @@
-print("Ahihi")
-print("come on!")
+print("Go!")
